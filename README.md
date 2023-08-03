@@ -2,7 +2,7 @@
 
 
 
-Welcome to my GitHub profile! I'm a passionate front-end web development.I enjoy building and contributing to projects that solve real-world problems and help developers and communities grow.
+Welcome to my GitHub profile! I'm a passionate front-end web development. I enjoy building and contributing to projects that solve real-world problems and help developers and communities grow.
 
 ## 🔭 Current Projects
 
