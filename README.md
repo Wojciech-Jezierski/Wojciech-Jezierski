@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate front-end web development.I enjoy
 
 I'm continuously learning and exploring new technologies to improve my skills:
 
-- TypeScript
 - Redux
+- Docker, Pipelines
 
 ## 🧰 Toolbox
 
