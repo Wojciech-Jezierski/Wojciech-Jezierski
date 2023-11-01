@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate front-end web development. I enjo
 I'm continuously learning and exploring new technologies to improve my skills:
 
 - Redux
-- Docker, CI Pipeliness
+- Docker, Pipeliness
 
 ## 🧰 Toolbox
 
