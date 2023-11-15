@@ -23,7 +23,7 @@ I'm continuously learning and exploring new technologies to improve my skills:
 - Version Control: Git, GitHub, GitLab
 - Design Apps: Figma, Adobe XD
 - Tools: VS Code, Postman, Docker
-- Operating System: Windows
+- Operating System: Windowss
 
 ---
 
