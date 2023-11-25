@@ -22,7 +22,7 @@ I'm continuously learning and exploring new technologies to improve my skills:
 - Libraries: Redux, Material UI, Tailwind, Styled Components
 - Version Control: Git, GitHub, GitLab
 - Design Apps: Figma, Adobe XD
-- Tools: VS Code, Postman, Docker
+- Tools: VS Code, Postman, Dockers
 - Operating System: Windows
 
 ---
