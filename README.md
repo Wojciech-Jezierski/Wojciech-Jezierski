@@ -24,6 +24,6 @@ I'm continuously learning and exploring new technologies to improve my skills:
 - Design Apps: Figma, Adobe XD
 - Tools: VS Code, Postman, Docker
 - Operating System: Windows
-s
+
 ---
 
